@@ -1,8 +1,5 @@
 # belly-button-challenge
 ## Instructions
-
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/hchen/Desktop/Screenshot.png?version%253D1693902569090)
-
 Complete the following steps:
 1. Use the D3 library to read in `samples.json` from the URL `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.`
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
@@ -25,6 +22,7 @@ Complete the following steps:
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
 ![Alt text](https://static.bc-edx.com/data/dla-1-2/m14/lms/img/hw03.jpg)
+
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
 ![Alt text](https://static.bc-edx.com/data/dla-1-2/m14/lms/img/hw02.jpg)
